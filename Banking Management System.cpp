@@ -1,4 +1,4 @@
-#Author by Azyan
+#Author: Azyan
 
 #include<iostream>
 #include<vector>
@@ -152,3 +152,4 @@ main(){
 	}while(op == 'y'||op =='Y');
 
 }
+
